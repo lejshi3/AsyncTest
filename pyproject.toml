@@ -11,6 +11,7 @@ discord = "^2.3.2"
 anthropic = "^0.21.3"
 python-dotenv = "^1.0.1"
 discord-py = "^2.3.2"
+prompt-toolkit = "^3.0.43"
 
 [tool.pyright]
 # https://github.com/microsoft/pyright/blob/main/docs/configuration.md
